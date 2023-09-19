@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "02994424b5bbf0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47a0ecda996d65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db49e579c843709e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2035e76eceba78aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "979fccb14e62a642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5c4b3b07b388e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cadecb4c2ff4dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80bd11dddc35376f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afb5a1e90134d111",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c59bb3c2b06ebad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e2cd5e39dfd126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01f9ba0597056759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5602771012ace0dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79374e335384ac2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "db49e579c843709e",
+  "lastOpenFiles": [
+    "Base de datos/Normalización/Normalización.md",
+    "Base de datos/Normalización/Dependencia Funcional.md",
+    "Base de datos/Normalización/Problemas de un esquema NO Normalizado.md",
+    "Base de datos/Base de datos.md",
+    "Base de datos/DER/DER.md",
+    "Base de datos/DER",
+    "Prueba1.md",
+    "Prueba.md",
+    "Base de datos/DER.md",
+    "Base de datos/Normalización",
+    "Base de datos"
+  ]
+}
