@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e47a0ecda996d65a",
+        "id": "c9e556030804d4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "db49e579c843709e",
+            "id": "7571f74674cf6cad",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,10 +138,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "db49e579c843709e",
+  "active": "7571f74674cf6cad",
   "lastOpenFiles": [
+    "Base de datos/Normalización/Dependencia Funcional/Dependencia Funcional.md",
     "Base de datos/Normalización/Normalización.md",
-    "Base de datos/Normalización/Dependencia Funcional.md",
+    "Base de datos/Normalización/Dependencia Funcional/Trivial.md",
+    "Base de datos/Normalización/Dependencia Funcional",
+    "Base de datos/Imagenes/Pasted image 20230918224702.png",
+    "Base de datos/Imagenes/Pasted image 20230918224328.png",
+    "Base de datos/Imagenes",
+    "Pasted image 20230918224037.png",
     "Base de datos/Normalización/Problemas de un esquema NO Normalizado.md",
     "Base de datos/Base de datos.md",
     "Base de datos/DER/DER.md",
