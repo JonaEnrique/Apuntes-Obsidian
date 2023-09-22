@@ -13,3 +13,5 @@ Esto significa que los valores componentes de Y de una tupla de r dependen de lo
 ![[Pasted image 20230918224702.png]]
 
 Dependencia funcional [[Trivial]]
+[[Clave y Superclave]]
+[[Axiomas de Armstrong]]

@@ -11,6 +11,18 @@
             "id": "7571f74674cf6cad",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto de atributos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3694b4fc06c01cf",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto de atributos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto de atributos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto de atributos.md"
+              }
             }
           }
         ]
@@ -130,8 +146,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
@@ -140,16 +156,26 @@
   },
   "active": "7571f74674cf6cad",
   "lastOpenFiles": [
+    "Base de datos/Imagenes/Pasted image 20230922193948.png",
+    "Base de datos/Imagenes/Pasted image 20230922131107.png",
+    "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto funcional (F+).md",
+    "Base de datos/Normalización/Dependencia Funcional/Clausura de un conjunto de atributos.md",
+    "Base de datos/Imagenes/Pasted image 20230922130808.png",
     "Base de datos/Normalización/Dependencia Funcional/Dependencia Funcional.md",
+    "Base de datos/Normalización/Dependencia Funcional/Axiomas de Armstrong.md",
+    "Base de datos/Imagenes/Pasted image 20230922123606.png",
+    "Base de datos/Imagenes/Pasted image 20230922123344.png",
+    "Base de datos/Normalización/Dependencia Funcional/Clave y Superclave.md",
     "Base de datos/Normalización/Normalización.md",
+    "Base de datos/Normalización/Problemas de un esquema NO Normalizado.md",
+    "Base de datos/Base de datos.md",
+    "Base de datos/Imagenes/Pasted image 20230922122807.png",
     "Base de datos/Normalización/Dependencia Funcional/Trivial.md",
     "Base de datos/Normalización/Dependencia Funcional",
     "Base de datos/Imagenes/Pasted image 20230918224702.png",
     "Base de datos/Imagenes/Pasted image 20230918224328.png",
     "Base de datos/Imagenes",
     "Pasted image 20230918224037.png",
-    "Base de datos/Normalización/Problemas de un esquema NO Normalizado.md",
-    "Base de datos/Base de datos.md",
     "Base de datos/DER/DER.md",
     "Base de datos/DER",
     "Prueba1.md",
